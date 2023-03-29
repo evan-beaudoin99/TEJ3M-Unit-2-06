@@ -2,7 +2,7 @@
 """
 Created by: Evan Beaudoin
 Created on: March 2023
-This is a number guessing game using random numbers
+Uses the HC-SR04 distance sensor to print the distance
 """
 
 import time
